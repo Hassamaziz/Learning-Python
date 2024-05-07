@@ -1,5 +1,5 @@
-print("Hello World")
-print("Hello hassam")
+# print("Hello World")
+# print("Hello hassam")
 
 # Comments in Python
 # print("Hello World")
@@ -19,3 +19,7 @@ Multi line comment is done by triple single quotes
 
 
 # Variables in Python
+
+a=5
+print(a)
+
