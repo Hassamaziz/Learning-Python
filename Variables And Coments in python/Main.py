@@ -30,3 +30,9 @@ c=True # or False   for boolean
 print(c)
 d="Hey" # String data type
 print(d)
+e=None # Represents null or nothing
+print(e)
+
+
+
+
