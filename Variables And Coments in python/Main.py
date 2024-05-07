@@ -20,6 +20,13 @@ Multi line comment is done by triple single quotes
 
 # Variables in Python
 
-a=5
+a=5   # Integer data type
 print(a)
-
+b=55     
+print(b)
+a=69.6  # float data type
+print(a)
+c=True # or False   for boolean
+print(c)
+d="Hey" # String data type
+print(d)
