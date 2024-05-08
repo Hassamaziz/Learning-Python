@@ -37,7 +37,6 @@ print(b<=c)
 print(b>=c)
 #Logical operators AND OR NOT
 # print(True and True)
-# print(False and False)
 # print(True or False)
 # print(not True)
 print(b>c and b==d)
