@@ -1,4 +1,4 @@
-# TypeCasting in Python
+# TypeCasting in Python language
 
 f="5"
 print(int(f)+1)
