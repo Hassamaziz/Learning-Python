@@ -6,7 +6,7 @@ print(name)
 # Now for Trimming or splicing
 # print(name[0:3])
 
-# Some methods
+# Some more methods
 
 print(name.upper())
 print(name.capitalize())
