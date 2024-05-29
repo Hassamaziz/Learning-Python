@@ -6,3 +6,6 @@ print(a2)
 # print(a1)
 # print(a2)
 print(a1.intersection(a2))
+# Empty set creation
+b=set()
+print(b,type(b))
