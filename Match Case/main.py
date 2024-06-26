@@ -1,4 +1,4 @@
-a=2
+a=int(input("Enter an Integer: "))
 match a:
     case 1:
         print("one")
