@@ -13,3 +13,5 @@ elif(age<12):
    print("you are a kid.")
 else:
  print("No,you can go home.")
+
+print("End Of Program")
