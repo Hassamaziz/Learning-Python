@@ -5,4 +5,4 @@ match a:
     case 2:
         print("two")
     case _:
-        print("no match found")
+        print("No match found")
