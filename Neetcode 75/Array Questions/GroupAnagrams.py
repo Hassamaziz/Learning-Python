@@ -12,3 +12,7 @@ class Solution:
                 anagram_dict[sorted_str] = []
             anagram_dict[sorted_str].append(s)
         return list(anagram_dict.values())
+    
+
+
+    
