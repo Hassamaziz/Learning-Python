@@ -6,13 +6,15 @@
 class Solution:
     def groupAnagrams(self, strs: list[str]) -> list[list[str]]:
         anagram_dict = {}
+
         for s in strs:
             sorted_str = ''.join(sorted(s))
             if sorted_str not in anagram_dict:
                 anagram_dict[sorted_str] = []
             anagram_dict[sorted_str].append(s)
+
         return list(anagram_dict.values())
-    
+
+print(Solution().groupAnagrams(["eat", "tea", "tan", "ate", "nat", "bat"]))
 
 
-    
